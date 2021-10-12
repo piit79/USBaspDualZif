@@ -11,3 +11,7 @@ It adds the following extra features:
 Uses mostly SMD components for street cred.
 
 Modified firmware: https://github.com/piit79/USBasp/tree/USBaspDualZif
+
+Released under the [GNU General Public License v2.0](https://raw.githubusercontent.com/piit79/USBaspDualZif/main/LICENSE) (as it's based on USBasp)
+
+![USBaspDualZif photo](https://raw.githubusercontent.com/piit79/USBaspDualZif/main/USBaspDualZif.jpg)
